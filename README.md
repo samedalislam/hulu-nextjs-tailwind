@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Samed Sir | SAMED AL ISLAM | Full Stack Developer | MERN | Next.js ❤
+
+### Visit: https://hulu-nextjs-tailwind-azure.vercel.app/
 
 ## Getting Started
 
